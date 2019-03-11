@@ -37,6 +37,22 @@
     padding-right: 15px;
 }
 
+#topnav .navigation-menu > li > a.pink {
+    display: inline-block;
+    font-size: 13px;
+    color: #e02677;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 500;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    line-height: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+
+
 #topnav .navigation-menu > li .submenu li a i {
     margin-right: 10px;
     font-size: 14px;

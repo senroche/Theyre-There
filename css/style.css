@@ -47,6 +47,12 @@ h5,
 h6 {
     font-family: 'Ubuntu', sans-serif;
 }
+h6{
+    color
+}
+p{
+    word-wrap: break-word;
+}
 
 
 /*======================
@@ -170,6 +176,8 @@ h6 {
     line-height: 1.5;
     text-shadow: 0px 20px 50px rgba(0, 0, 0, 0.4);
 }
+
+
 
 .home-sub-title {
     font-size: 17px;
